@@ -6,7 +6,7 @@
 ## Instructions
 1. Download repository from the following link: https://github.com/amdgeo/DJI-Thermal-Decoder-2023/archive/refs/heads/main.zip
 2. Extract the ZIP
-3. Pt H20T thermal images in the 'input' folder
+3. Put H20T thermal images in the 'input' folder
 4. Double-click _RUN.exe_.
 5. The _output_ folder will be generated where the resultant tiff files are located.
 
