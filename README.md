@@ -4,7 +4,7 @@
 2. Copy over original EXIF data
 
 ## Uruchomienie
-1. Dowbnload repository from the following link: https://github.com/amdgeo/DJI-Thermal-Decoder-2023/archive/refs/heads/main.zip
+1. Download repository from the following link: https://github.com/amdgeo/DJI-Thermal-Decoder-2023/archive/refs/heads/main.zip
 2. Extract the ZIP
 3. Pt H20T thermal images in the 'input' folder
 4. Double-click _RUN.exe_.
