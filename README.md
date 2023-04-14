@@ -3,7 +3,7 @@
 1. Convert H20T thermal photos to tiff using the DJI Thermal SDK
 2. Copy over original EXIF data
 
-## Uruchomienie
+## Instructions
 1. Download repository from the following link: https://github.com/amdgeo/DJI-Thermal-Decoder-2023/archive/refs/heads/main.zip
 2. Extract the ZIP
 3. Pt H20T thermal images in the 'input' folder
