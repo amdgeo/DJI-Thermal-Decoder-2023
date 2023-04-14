@@ -12,4 +12,4 @@
 
  It is possible to run from source (RUN.py), but this will require Python 3 and installing additional libraries from PIP.
  
- Full credit to https://github.com/radekszostak/DJI-Thermal-Decoder/ for the original code. This update uses the latest DJI Thermal SDK which makes it compatible with the Mavic 2 Enterprise Advanced thermal imagery
+ Full credit to https://github.com/radekszostak/DJI-Thermal-Decoder/ for the original code. This update uses the latest DJI Thermal SDK (v1.4) which makes it compatible with the Mavic 2 Enterprise Advanced thermal imagery
